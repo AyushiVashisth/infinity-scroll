@@ -97,10 +97,9 @@ const CLEANUP_THRESHOLD = 100;     // Pixels from top to trigger cleanup
 infinite-scroll-gallery/
 ├── src/
 │   ├── components/
-│   │   ├── InfiniteScrollApp.js
-│   │   └── ImageCard.js
-│   ├── styles/
-│   │   └── styles.css
+│   │   ├── InfiniteScrollApp.jsx
+│   │   └── ImageCard.jsx
+│   ├── styles.css
 │   └── App.js
 ├── .env
 └── README.md
