@@ -23,8 +23,8 @@ A React-based image gallery application featuring infinite scroll, image search,
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/infinite-scroll-gallery.git
-cd infinite-scroll-gallery
+git clone https://github.com/yourusername/infinity-scroll.git
+cd infinity-scroll
 ```
 
 2. Install dependencies:
@@ -78,7 +78,6 @@ const CLEANUP_THRESHOLD = 100;     // Pixels from top to trigger cleanup
 2. Create an account or log in
 3. Register a new application
 4. Copy your Access Key
-5. Add the key to your `.env` file
 
 ## 🚫 Common Issues
 
@@ -101,7 +100,6 @@ infinite-scroll-gallery/
 │   │   └── ImageCard.jsx
 │   ├── styles.css
 │   └── App.js
-├── .env
 └── README.md
 ```
 
