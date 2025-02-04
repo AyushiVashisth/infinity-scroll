@@ -116,6 +116,4 @@ const InfiniteScrollApp = () => {
   );
 };
 
-
-
 export default InfiniteScrollApp;
